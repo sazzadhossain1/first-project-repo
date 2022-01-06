@@ -42,3 +42,38 @@ img{
     height: 65px;
     
 }
+
+
+
+.heading{
+    text-align: center;
+}
+
+.background-1{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-right: 40px;
+
+}
+
+.background-2{
+    background-color: aquamarine;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+.background-3{
+    background-color: cadetblue;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+
+
+.small{
+    height: 200px;
+    width: 200px;
+}
+
+.center{
+    padding-left: 40px;
+    padding-right: 40px;
+}
