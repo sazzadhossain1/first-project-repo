@@ -23,7 +23,7 @@ h1{
 }
 .main-1{
     display: flex;
-    padding: 200px
+    padding: 50px
 }
 
 img{
@@ -89,7 +89,7 @@ img{
 
 .font-size{
     font-size: 50px;
-    padding-top: 20px;
+    
 }
 
 .button-1{
@@ -99,6 +99,28 @@ img{
     border: none;
     width: 250px;
     font-size: 18px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+
+.redios{
+    border-radius: 30px;
+    
+}
+.corona-from{
+    border: 10px solid palegoldenrod;
+    width: 900px;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+h3{
+    margin-left: 50px;
+}
+
+.cv-19{
+    padding: 10px;
+    margin: 10px;
 }
 
 
