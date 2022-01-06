@@ -38,8 +38,9 @@ img{
     padding: 15px;
     border-radius: 10px;
     border: none;
-    width: 210px;
-    height: 65px;
+    width: 240px;
+    height: 70px;
+    font-size: 20px;
     
 }
 
@@ -76,4 +77,24 @@ img{
 .center{
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.third-1{
+    padding-right: 40px;
+}
+.third-2{
+    padding-left: 40px;
+}
+
+
+.font-size{
+    font-size: 50px;
+}
+
+.button-1{
+    background-color: rgb(168, 13, 44);
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 250px;
 }
