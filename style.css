@@ -1,0 +1,44 @@
+h1{
+    font-size: 90px;
+    
+}
+
+.color-2022{
+    color: blueviolet;
+}
+
+.border-1{
+    border-left: 6px solid;
+    
+    padding: 10px;
+    border-radius: 5px;
+    border-color: brown;
+    
+
+}
+
+.paragraph{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.main-1{
+    display: flex;
+    padding: 200px
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+
+.button{
+    text-decoration: none;
+    background-color: rgb(168, 13, 44);
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    width: 210px;
+    height: 65px;
+    
+}
